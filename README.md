@@ -1,20 +1,7 @@
  # Seja bem-vindo e fique à vontade
  # Welcome and make yourself comfortable
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars0.githubusercontent.com/u/10327441?s=460&u=6892c4d9959c4dcb1d19c11f5e4f876b8a381434&v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-      </a>
-    </td>
-  </tr>
-</table>
 
-## Rodrigo Santucci
-
-
-#
 
 [![rodrigosantucci](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosantucci&hide=html&layout=compact&theme=tokyonight)](https://github.com/rodrigosantucci/)
 
