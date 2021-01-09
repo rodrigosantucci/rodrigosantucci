@@ -30,20 +30,19 @@
 
 ### Next tasks
 
-
-
 - [ ] Users API with Node
 - [ ] Countries API with Java
 - [ ] API's Containerization 
 - [ ] Finish React Native App
 - [ ] Finish Log server
 
-## 💻 Blog
+### 💻 Dicas e Tutoriais / Tips and Tutorials
+* <a href="https://www.rodrigosantucci.github.io/posts/">Posts</a>
 
-## 🚀 Posts
+
 
 ## 🚀 Repo
-
+ **working on**
 
 
 #
