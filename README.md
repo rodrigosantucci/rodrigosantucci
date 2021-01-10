@@ -35,7 +35,7 @@
 - [ ] Finish Log server
 
 ### 💻 Dicas e Tutoriais / Tips and Tutorials
-* <a href="https://www.rodrigosantucci.github.io/posts/">Posts</a>
+* <a href="https://rodrigosantucci.github.io/posts/">Posts</a>
 
 
 
