@@ -20,17 +20,11 @@
 
 ### Próximas tarefas
 
-- [ ] Instalar stack Elastic local para testes
-- [ ] API de Usuários Node 
-- [ ] API de Países Java 
 - [ ] Conteinerização de API's 
 - [ ] Finalizar App React Native
 - [ ] Finalizar Servidor de Log
 
 ### Next tasks
-- [ ] Install Elastic Stack for tests
-- [ ] Users API with Node
-- [ ] Countries API with Java
 - [ ] API's Containerization 
 - [ ] Finish React Native App
 - [ ] Finish Log server
