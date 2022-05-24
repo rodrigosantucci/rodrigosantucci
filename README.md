@@ -1,4 +1,4 @@
- # Seja bem-vindo e fique à vontade
+ # Seja bem-vindo(a) e fique à vontade
  # Welcome and make yourself comfortable
 
 
