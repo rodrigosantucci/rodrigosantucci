@@ -1,5 +1,5 @@
- # Seja bem-vindo(a) e fique à vontade
- # Welcome and make yourself comfortable
+ # Seja bem-vindo(a).
+ # Welcome
 
 
 
@@ -17,7 +17,3 @@
 
 ### 💻 Dicas e Tutoriais / Tips and Tutorials
 * <a href="https://rodrigosantucci.github.io/posts/">Posts</a>
-
-
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
