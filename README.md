@@ -15,15 +15,7 @@
 
 Passionate developer focused on building efficient and scalable solutions. I love sharing knowledge through tutorials and blog posts.
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosantucci&hide=html&layout=compact&theme=tokyonight)](https://github.com/rodrigosantucci/)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigosantucci&show_icons=true&theme=tokyonight)](https://github.com/rodrigosantucci/)
-
-</div>
 
 ## 💡 What I Do
 
